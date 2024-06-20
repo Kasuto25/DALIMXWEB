@@ -1,0 +1,55 @@
+body{
+    background-image: url("Dalimx.jpg");
+    align-items: center;
+}
+img{
+    height: 400px;
+}
+.centrar{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+title{
+    font-size: 80px;
+    font-family: cooper-black;
+    color: #F2F44C;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    font-size: 60px;
+    font-family: Book-Antiqua;
+    color: yellow;
+}
+.text2{
+    font-size: 34px;
+    font-family: 'Times New Roman';
+    color: white;
+    text-align: center;
+}
+.text3{
+    font-size: 34px;
+    font-family: 'Times New Roman';
+    color: white;
+}
+.ristra{
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.title2{
+    text-align: center;
+    font-size: 60px;
+    font-family: Rockwell;
+    color: #57ACDF;
+    text-decoration: underline;
+}
+.subtitle{
+    text-align: center;
+    font-size: 40px;
+    font-family: Rockwell;
+    color: #57ACDF;
+    text-decoration: underline;
+}
